@@ -689,12 +689,13 @@ input, label {
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
     height: 472px;
+    margin-bottom: 11px;
   }
   .gradientContainerI div iframe {
     margin-left: 11px;
     margin-right: 11px;
     margin-top: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 11px;
   }
   /* Phone */
   .deDondeVenimosContainer {
@@ -712,7 +713,7 @@ input, label {
   .deDondeVenimosContainer .phone img {
     width: 360px;
     height: 519px;
-    margin-top: -100px;
+    margin-top: -95.5px;
   }
   .deDondeVenimosContainer .text {
     width: 100%;
